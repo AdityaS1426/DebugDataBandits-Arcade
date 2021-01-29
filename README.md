@@ -1,1 +1,1 @@
-# DebugDataBandits-Arcade
+# DebugDataBandits - Arcade
