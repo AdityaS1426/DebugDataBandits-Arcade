@@ -14,6 +14,14 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - Here's a [link](https://github.com/AdityaS1426/DebugDataBandits-Arcade/issues) to the code for the SnakeGame with explanations. Note that the SnakeGame doesn't run since it's being designed around the Main Class, which will be created at the end.
 - However, I have finished making a [2048 Game](https://github.com/AdityaS1426/DebugDataBandits-Arcade/tree/main/SRC/Game) that runs. I started this over the summer, but finished it this week. This game has various components that are the same as which I will use in the SnakeGame, so I'm using this for inspiration, as well as a basis/reference for my SnakeGame code. TO RUN THIS PROGRAM, PULL THE REPO. GO TO SRC/GAME/GAMEGUI. Run this to play the game.
 
+###### HOW TO PLAY 2048 GAME
+
+- 2048 presents with with a 4×4 grid. When you start the game, there will be two “tiles” on the grid, each displaying the number 2 or 4. 
+- You hit the arrow keys on your keyboard to move the tiles around — and also to generate new tiles, which will also be valued at 2 or 4.
+- When two equal tiles collide, they combine to give you one greater tile that displays their sum.
+- The more you do this, obviously, the higher the tiles get and the more crowded the board becomes.
+- Your objective is to reach 2048 before the board fills up.
+
 ## General Plan for Week 6
 
 - Team members should get familiarized with Spring, Spring Boot, & Thymeleaf.
