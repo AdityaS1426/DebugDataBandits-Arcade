@@ -20,6 +20,12 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - Continue working on snake game.
 - Here's a [link](https://github.com/AdityaS1426/DebugDataBandits-Arcade/issues) to the code for the SnakeGame with explanations. Note that the SnakeGame doesn't run since it's being designed around the Main Class, which will be created at the end.
 
+###### Atharva Kudrimoti
+- Began work on Tic Tac Toe Game (code is located in src)
+- This correlates to what I had set as a goal for my ticket last week
+- I have not figured out how to implement into web-based programing but that will be my goal for next week
+-Boolean statements are used to control the AI and for loops for user input
+
 ###### Arnav Swami
 - Continue working on my Egyptian Ratslap Game
 - Ratslap Game does not run but I will be able to make it run soon
