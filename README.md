@@ -6,11 +6,13 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 
 ## Work for Week 7
 
-###### Aditya Surapaenni
+###### Aditya Surapaneni
 
 - Click on this [link](https://drive.google.com/file/d/17y1B-VN6N9yavHkoa137qIdPxo7I_Ovl/view?usp=sharing) to access an MVC diagram I created to plan out the Snake Game.
 - Or, just look at the picture below.
 - ![](SnakeMVCDiagram.JPG)
+- Here's a [link](https://github.com/AdityaS1426/DebugDataBandits-Arcade/issues) to the code for the SnakeGame with explanations. Note that the SnakeGame doesn't run since it's being designed around the Main Class, which will be created at the end.
+- However, I have finished making a 2048 Game that runs. I started this over the summer, but finished it this week. This game has various components that are the same as which I will use in the SnakeGame, so I'm using this for inspiration, as well as a basis/reference for my SnakeGame code.
 
 ## General Plan for Week 6
 
