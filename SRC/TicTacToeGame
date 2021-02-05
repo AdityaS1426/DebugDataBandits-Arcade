@@ -1,0 +1,47 @@
+import java.util.Scanner;
+
+public class TicTacToe {
+  
+  public static int getValidInt(String prompt) {
+    
+    Scanner in = new Scanner(System.in);  
+    while(true)
+    {
+      System.out.print(prompt);
+      String input = in.nextLine();
+      int num=0;
+      try 
+      {
+        num = Integer.parseInt(input);
+      }
+      catch(Exception e)
+      {
+        System.out.println("Invalid integer!");
+        continue;
+      }     
+      if(num<0 || num>2)
+      {
+        System.out.println("Integer must be between 0 and 2");
+        continue;        
+      }     
+      return num;
+    }
+  }
+  
+  public static boolean checkRows(int[][] A){
+    for(int i=0; i<A.length; i++)
+    {
+      if( (A[i][0]==A[i][1]) && (A[i][1]==A[i][2]) && A[i][0] !=0)
+        return true;
+    }
+    return false;  
+  }
+  
+  public static boolean checkCols(int[][] A){
+    for(int i=0; i<A[0].length; i++)
+    {
+      if( (A[0][i]==A[1][i]) && (A[1][i]==A[1][i])&& A[0][i] !=0)
+        return true;
+    }
+    return false;  
+  }
