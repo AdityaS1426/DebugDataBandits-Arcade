@@ -1,3 +1,5 @@
+package Game;
+
 import java.awt.event.KeyEvent;
 import java.util.Arrays;
 public class AI {
