@@ -9,8 +9,8 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 ###### Aditya Surapaenni
 
 - Click on this [link](https://drive.google.com/file/d/17y1B-VN6N9yavHkoa137qIdPxo7I_Ovl/view?usp=sharing) to access an MVC diagram I created to plan out the Snake Game.
-- Or, just look at the picture below this line.
-![](SnakeMVCDiagram.JPG)
+- Or, just look at the picture to the right.
+- ![](SnakeMVCDiagram.JPG)
 
 ## General Plan for Week 6
 
