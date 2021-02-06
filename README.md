@@ -15,21 +15,21 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - However, I have finished making a [2048 Game](https://github.com/AdityaS1426/DebugDataBandits-Arcade/tree/main/SRC/Game) that runs. I started this over the summer, but finished it this week. This game has various components that are the same as which I will use in the SnakeGame, so I'm using this for inspiration, as well as a basis/reference for my SnakeGame code. TO RUN THIS PROGRAM, PULL THE REPO. GO TO SRC/GAME/GAMEGUI. Run this to play the game.
 
 ###### Jacob Rozenkrants
-- Continue working on Easter Egg
-- Will be able to access past documents and group work
-- Continue working on snake game.
+- Continue working on Easter Egg.
+- Will be able to access past documents and group work.
+- Continue working on Snake Game.
 - Here's a [link](https://github.com/AdityaS1426/DebugDataBandits-Arcade/issues) to the code for the SnakeGame with explanations. Note that the SnakeGame doesn't run since it's being designed around the Main Class, which will be created at the end.
 
 ###### Atharva Kudrimoti
-- Began work on Tic Tac Toe Game (code is located in src)
-- This correlates to what I had set as a goal for my ticket last week
-- I have not figured out how to implement into web-based programing but that will be my goal for next week
--Boolean statements are used to control the AI and for loops for user input
+- Began work on Tic Tac Toe Game. (Code is located in SRC.)
+- This correlates to what I had set as a goal for my ticket last week.
+- I have not figured out how to implement into web-based programing but that will be my goal for next week.
+- Boolean Statements are used to control the AI and for loops for user input.
 
 ###### Arnav Swami
-- Continue working on my Egyptian Ratslap Game
-- Ratslap Game does not run but I will be able to make it run soon
-- The Ratslap game runs around other intertwined classes which will be coded later.
+- Continue working on my Egyptian Ratslap Game.
+- Ratslap Game does not run but I will be able to make it run soon.
+- The Ratslap Game runs around other intertwined classes which will be coded later.
 
 ## HOW TO PLAY 2048 GAME
 
