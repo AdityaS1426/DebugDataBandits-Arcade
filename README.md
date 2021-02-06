@@ -39,6 +39,11 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - The more you do this, obviously, the higher the tiles get and the more crowded the board becomes.
 - Your objective is to reach 2048 before the board fills up.
 
+## WEB SERVER STATUS
+
+- We have transferred JAR files to Ubuntu via AWS.
+- Next week, we need to figure out how to get it running on the machine.
+
 THIS IS THE README INFO FOR LAST WEEK ------------------------------------------------------------------------------------------------------
 
 ## General Plan for Week 6
