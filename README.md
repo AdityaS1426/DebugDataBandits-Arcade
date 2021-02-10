@@ -6,11 +6,45 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 
 ## Work for Week 7
 
-###### Aditya Surapaenni
+###### Aditya Surapaneni
 
 - Click on this [link](https://drive.google.com/file/d/17y1B-VN6N9yavHkoa137qIdPxo7I_Ovl/view?usp=sharing) to access an MVC diagram I created to plan out the Snake Game.
 - Or, just look at the picture below.
 - ![](SnakeMVCDiagram.JPG)
+- Here's a [link](https://github.com/AdityaS1426/DebugDataBandits-Arcade/issues) to the code for the SnakeGame with explanations. Note that the SnakeGame doesn't run since it's being designed around the Main Class, which will be created at the end.
+- However, I have finished making a [2048 Game](https://github.com/AdityaS1426/DebugDataBandits-Arcade/tree/main/SRC/Game) that runs. I started this over the summer, but finished it this week. This game has various components that are the same as which I will use in the SnakeGame, so I'm using this for inspiration, as well as a basis/reference for my SnakeGame code. TO RUN THIS PROGRAM, PULL THE REPO. GO TO SRC/GAME/GAMEGUI. Run this to play the game.
+
+###### Jacob Rozenkrants
+- Continue working on Easter Egg.
+- Will be able to access past documents and group work.
+- Continue working on Snake Game.
+- Here's a [link](https://github.com/AdityaS1426/DebugDataBandits-Arcade/issues) to the code for the SnakeGame with explanations. Note that the SnakeGame doesn't run since it's being designed around the Main Class, which will be created at the end.
+
+###### Atharva Kudrimoti
+- Began work on Tic Tac Toe Game. (Code is located in SRC.)
+- This correlates to what I had set as a goal for my ticket last week.
+- I have not figured out how to implement into web-based programing but that will be my goal for next week.
+- Boolean Statements are used to control the AI and for loops for user input.
+
+###### Arnav Swami
+- Continue working on my Egyptian Ratslap Game.
+- Ratslap Game does not run but I will be able to make it run soon.
+- The Ratslap Game runs around other intertwined classes which will be coded later.
+
+## HOW TO PLAY 2048 GAME
+
+- 2048 presents with with a 4×4 grid. When you start the game, there will be two “tiles” on the grid, each displaying the number 2 or 4. 
+- You hit the arrow keys on your keyboard to move the tiles around — and also to generate new tiles, which will also be valued at 2 or 4.
+- When two equal tiles collide, they combine to give you one greater tile that displays their sum.
+- The more you do this, obviously, the higher the tiles get and the more crowded the board becomes.
+- Your objective is to reach 2048 before the board fills up.
+
+## WEB SERVER STATUS
+
+- We have transferred JAR files to Ubuntu via AWS.
+- Next week, we need to figure out how to get it running on the machine.
+
+THIS IS THE README INFO FOR LAST WEEK ------------------------------------------------------------------------------------------------------
 
 ## General Plan for Week 6
 
