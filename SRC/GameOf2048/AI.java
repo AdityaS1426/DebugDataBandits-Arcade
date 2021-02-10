@@ -1,4 +1,6 @@
-package Game;
+package GameOf2048;
+
+import GameOf2048.GameGUI;
 
 import java.awt.event.KeyEvent;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package Game;
+package GameOf2048;
 
 import java.awt.event.*;
 import java.io.File;
