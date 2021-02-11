@@ -121,7 +121,7 @@ public class TicTacToe {
 	    }
     
   
-  public static void main(String[] args) {
+  public static void Main(String[] args) {
     
     int[][] grid = new int[3][3];
     int foundWinner = 0;
@@ -159,5 +159,5 @@ public class TicTacToe {
     if(foundWinner == 0)
       System.out.println("It's a draw!");
  
-  }//end main
- }//end class
+  }
+ }

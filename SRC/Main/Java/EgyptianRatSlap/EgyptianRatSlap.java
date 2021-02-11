@@ -1,10 +1,9 @@
-package SnakeGame;
-import javax.swing.*;
+/*package EgyptianRatSlap;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
-public class egyptianratslap {
+public class EgyptianRatSlap {
     {
         private void prepareGUI(){
 
@@ -56,5 +55,5 @@ public class egyptianratslap {
             Panel.add(slapButton);
             Panel.add(burnButton);
             Panel.add(cancelButton);
-            Frame.setVisible(true);
+            Frame.setVisible(true);*/
 
