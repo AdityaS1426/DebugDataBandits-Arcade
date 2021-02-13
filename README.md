@@ -9,6 +9,10 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - Pull this repository from the "Main" branch.
 - Travel to SRC/Main/Java.
 - Here, each game is split into a different Package.
+- To run the 2048 Game, run GameGUI.java.
+- To run the Snake Game, run Main.java.
+- The HTML file can be accessed at SRC/Main/Resources/Index.html.
+- To get to the site, click on one of the browser icons that pop up when hovering over the HTML file.
 
 ## Instructions for Each Game
 
