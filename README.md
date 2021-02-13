@@ -7,6 +7,8 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 ## Instructions for Running
 
 - Pull this repository from the "Main" branch.
+- Travel to SRC/Main/Java.
+- Here, each game is split into a different Package.
 
 ## Instructions for Each Game
 
