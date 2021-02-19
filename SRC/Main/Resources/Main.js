@@ -25,7 +25,7 @@ const verb1 = words.get('verb-1');
 const num1 = words.get('num-1');
 const message = words.get('message');
 
-// The String containing HTML & text which will populate the story.html page.
+// The String containing HTML & text which will populate the Story.html page.
 const story = `<p>A <span class="word" title="id: animal-1">${firstAnimal}</span> was making fun of the <span class="word" title="id: animal-2">${secondAnimal}</span> one day for being so slow.</p>
 <p>"Do you ever get anywhere?" he asked with a mocking laugh.</p>
 <p>"<span class="word" title="id: answer">${answer}</span>," replied the <span class="word" title="id: animal-2">${secondAnimal}</span>, "${conjunction} I get there <span class="word" title="id: speed">${speed}</span> than you think. I'll run you a race and prove it."</p>
