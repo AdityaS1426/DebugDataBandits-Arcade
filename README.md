@@ -4,6 +4,10 @@
 
 The Arcade Project aims to allow a User to play various games for entertainment on a Web Server. The User will be able to interact with the programs via a multitude of buttons, mouse movements, arrow keys, etc. Some of these games include Snake, TicTacToe, Tetris, Egyptian Card Slap, & more. Additionally, the User will be able to collect "Coins" for winning certain games to buy various different prizes.
 
+## Video to Help for Front End Code Review
+
+- Here's the [link](https://drive.google.com/file/d/1rCQBUDdtYkdoj0octsQ7VFDOvjsz-huU/view?usp=sharing) to a video to make it easier to review our Front End Code, as well as view our website.
+
 ## Week 9 - Front End Code Review
 
 ###### Instructions for Running the Front End Code
