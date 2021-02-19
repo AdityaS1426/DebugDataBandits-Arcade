@@ -4,15 +4,13 @@
 
 The Arcade Project aims to allow a User to play various games for entertainment on a Web Server. The User will be able to interact with the programs via a multitude of buttons, mouse movements, arrow keys, etc. Some of these games include Snake, TicTacToe, Tetris, Egyptian Card Slap, & more. Additionally, the User will be able to collect "Coins" for winning certain games to buy various different prizes.
 
-## Instructions for Running
+## Instructions for Running the Front End Code
 
 - Pull this repository from the "Main" branch.
-- Travel to SRC/Main/Java.
-- Here, each game is split into a different Package.
-- To run the 2048 Game, run GameGUI.java.
-- To run the Snake Game, run Main.java.
-- The HTML file can be accessed at SRC/Main/Resources/Index.html.
-- To get to the site, click on one of the browser icons that pop up when hovering over the HTML file.
+- Travel to SRC/Main/Java/Resources.
+- The HTML, CSS, & JS files can be seen here.
+- To get to the site, click on one of the browser icons that pop up when hovering over the Index.html file.
+- Or, simply watch the video I have made to see a demonstration of the site & the Front End Code.
 
 ## Instructions for Each Game
 
@@ -32,6 +30,11 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - Each time the snake "eats the food", a new blue block is generated in another spot on the grid, which the snake has to "eat". Additionally, each time the snake "eats the food", the snake lengthens.
 - The objective of the Snake Game is to get the snake to be as long as possible.
 - The score is the amount of "food" that's eaten by the snake. This is kept track of in the "run window" in IntelliJ.
+
+## Work for Week 8
+
+- [Crossover Report](https://docs.google.com/document/d/19JLfSixhBN15SpbxNbiKRWqId3anlblvXBnik8T99X4/edit?usp=sharing)
+- This report is for the Lobos.
 
 ## Work for Week 7
 
@@ -60,14 +63,12 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - Ratslap Game does not run but I will be able to make it run soon.
 - The Ratslap Game runs around other intertwined classes which will be coded later.
 
-## General Plan for Week 6
+## Work for Week 6
 
 - Team members should get familiarized with Spring, Spring Boot, & Thymeleaf.
 - Team members should get familiarized with HTML.
 - Team members should plan out their contribution to the Arcade Project.
 - Team members should start working on Arcade Project.
-
-## Tickets for Each Team Member
 
 ###### Aditya Surapaneni
 
