@@ -4,7 +4,9 @@
 
 The Arcade Project aims to allow a User to play various games for entertainment on a Web Server. The User will be able to interact with the programs via a multitude of buttons, mouse movements, arrow keys, etc. Some of these games include Snake, TicTacToe, Tetris, Egyptian Card Slap, & more. Additionally, the User will be able to collect "Coins" for winning certain games to buy various different prizes.
 
-## Instructions for Running the Front End Code
+Week 9 - Front End Code Review
+
+###### Instructions for Running the Front End Code
 
 - Pull this repository from the "Main" branch.
 - Travel to SRC/Main/Java/Resources.
@@ -12,31 +14,17 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - To get to the site, click on one of the browser icons that pop up when hovering over the Index.html file.
 - Or, simply watch the video I have made to see a demonstration of the site & the Front End Code.
 
-## Instructions for Each Game
+###### README Guidance for Front End Code Review
+- Click [here](https://github.com/AdityaS1426/DebugDataBandits-Arcade/projects/1) to get to our Scrum Board. You can find our Tickets in the "In Progress" section.
+- Explanations for each file for our Front End Code, with links to specific pieces of code, can be found in the [Issues](https://github.com/AdityaS1426/DebugDataBandits-Arcade/issues) section.
+- Refer to the video linked above for maximum ease.
 
-###### HOW TO PLAY 2048 GAME
-
-- 2048 presents with with a 4×4 grid. When you start the game, there will be two “tiles” on the grid, each displaying the number 2 or 4. 
-- You hit the arrow keys on your keyboard to move the tiles around — and also to generate new tiles, which will also be valued at 2 or 4.
-- When two equal tiles collide, they combine to give you one greater tile that displays their sum.
-- The more you do this, obviously, the higher the tiles get and the more crowded the board becomes.
-- Your objective is to reach 2048 before the board fills up.
-
-###### HOW TO PLAY SNAKE GAME
-
-- The player moves a snake around a grid utilizing the arrow keys, with movements in the upward, downward, left, & right directions.
-- The player needs to move the snake so that it "eats the food" by touching the blue block on the grid.
-- The "food" is considered eaten when the front of the snake touches the blue block.
-- Each time the snake "eats the food", a new blue block is generated in another spot on the grid, which the snake has to "eat". Additionally, each time the snake "eats the food", the snake lengthens.
-- The objective of the Snake Game is to get the snake to be as long as possible.
-- The score is the amount of "food" that's eaten by the snake. This is kept track of in the "run window" in IntelliJ.
-
-## Work for Week 8
+## Week 8 - Crossover Report for Lobos
 
 - [Crossover Report](https://docs.google.com/document/d/19JLfSixhBN15SpbxNbiKRWqId3anlblvXBnik8T99X4/edit?usp=sharing)
 - This report is for the Lobos.
 
-## Work for Week 7
+## Week 7 - Recap of Tickets & Java Spring Server
 
 ###### Aditya Surapaneni
 
@@ -63,7 +51,7 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - Ratslap Game does not run but I will be able to make it run soon.
 - The Ratslap Game runs around other intertwined classes which will be coded later.
 
-## Work for Week 6
+## Week 6 - Planning for Arcade Project & Goals for Week 7
 
 - Team members should get familiarized with Spring, Spring Boot, & Thymeleaf.
 - Team members should get familiarized with HTML.
@@ -103,4 +91,23 @@ The Arcade Project aims to allow a User to play various games for entertainment 
    resources.
  - Decide on AWS, Raspberry Pi, or Virtual Box which will 
    work best for our arcade project.
+   
+## Instructions for Each Game
+
+###### HOW TO PLAY 2048 GAME
+
+- 2048 presents with with a 4×4 grid. When you start the game, there will be two “tiles” on the grid, each displaying the number 2 or 4. 
+- You hit the arrow keys on your keyboard to move the tiles around — and also to generate new tiles, which will also be valued at 2 or 4.
+- When two equal tiles collide, they combine to give you one greater tile that displays their sum.
+- The more you do this, obviously, the higher the tiles get and the more crowded the board becomes.
+- Your objective is to reach 2048 before the board fills up.
+
+###### HOW TO PLAY SNAKE GAME
+
+- The player moves a snake around a grid utilizing the arrow keys, with movements in the upward, downward, left, & right directions.
+- The player needs to move the snake so that it "eats the food" by touching the blue block on the grid.
+- The "food" is considered eaten when the front of the snake touches the blue block.
+- Each time the snake "eats the food", a new blue block is generated in another spot on the grid, which the snake has to "eat". Additionally, each time the snake "eats the food", the snake lengthens.
+- The objective of the Snake Game is to get the snake to be as long as possible.
+- The score is the amount of "food" that's eaten by the snake. This is kept track of in the "run window" in IntelliJ.
 
