@@ -4,6 +4,35 @@
 
 The Arcade Project aims to allow a User to play various games for entertainment on a Web Server. The User will be able to interact with the programs via a multitude of buttons, mouse movements, arrow keys, etc. Some of these games include Snake, TicTacToe, Tetris, Egyptian Card Slap, & more. Additionally, the User will be able to collect "Coins" for winning certain games to buy various different prizes.
 
+## Instructions for Running
+
+- Pull this repository from the "Main" branch.
+- Travel to SRC/Main/Java.
+- Here, each game is split into a different Package.
+- To run the 2048 Game, run GameGUI.java.
+- To run the Snake Game, run Main.java.
+- The HTML file can be accessed at SRC/Main/Resources/Index.html.
+- To get to the site, click on one of the browser icons that pop up when hovering over the HTML file.
+
+## Instructions for Each Game
+
+###### HOW TO PLAY 2048 GAME
+
+- 2048 presents with with a 4×4 grid. When you start the game, there will be two “tiles” on the grid, each displaying the number 2 or 4. 
+- You hit the arrow keys on your keyboard to move the tiles around — and also to generate new tiles, which will also be valued at 2 or 4.
+- When two equal tiles collide, they combine to give you one greater tile that displays their sum.
+- The more you do this, obviously, the higher the tiles get and the more crowded the board becomes.
+- Your objective is to reach 2048 before the board fills up.
+
+###### HOW TO PLAY SNAKE GAME
+
+- The player moves a snake around a grid utilizing the arrow keys, with movements in the upward, downward, left, & right directions.
+- The player needs to move the snake so that it "eats the food" by touching the blue block on the grid.
+- The "food" is considered eaten when the front of the snake touches the blue block.
+- Each time the snake "eats the food", a new blue block is generated in another spot on the grid, which the snake has to "eat". Additionally, each time the snake "eats the food", the snake lengthens.
+- The objective of the Snake Game is to get the snake to be as long as possible.
+- The score is the amount of "food" that's eaten by the snake. This is kept track of in the "run window" in IntelliJ.
+
 ## Work for Week 7
 
 ###### Aditya Surapaneni
@@ -30,21 +59,6 @@ The Arcade Project aims to allow a User to play various games for entertainment 
 - Continue working on my Egyptian Ratslap Game.
 - Ratslap Game does not run but I will be able to make it run soon.
 - The Ratslap Game runs around other intertwined classes which will be coded later.
-
-## HOW TO PLAY 2048 GAME
-
-- 2048 presents with with a 4×4 grid. When you start the game, there will be two “tiles” on the grid, each displaying the number 2 or 4. 
-- You hit the arrow keys on your keyboard to move the tiles around — and also to generate new tiles, which will also be valued at 2 or 4.
-- When two equal tiles collide, they combine to give you one greater tile that displays their sum.
-- The more you do this, obviously, the higher the tiles get and the more crowded the board becomes.
-- Your objective is to reach 2048 before the board fills up.
-
-## WEB SERVER STATUS
-
-- We have transferred JAR files to Ubuntu via AWS.
-- Next week, we need to figure out how to get it running on the machine.
-
-THIS IS THE README INFO FOR LAST WEEK ------------------------------------------------------------------------------------------------------
 
 ## General Plan for Week 6
 
